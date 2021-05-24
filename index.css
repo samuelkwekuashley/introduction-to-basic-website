@@ -1,0 +1,32 @@
+body {
+    font-family: monospace;
+
+}
+
+p {
+    color: rgb(21, 87, 131);
+}
+
+h1 {
+    color: rgb(21, 87, 131);
+}
+
+h3 {
+    color: rgb(246, 95, 7);
+}
+
+h4 {
+    color: rgb(246, 95, 7);
+}
+
+em {
+    color: rgb(21, 87, 131);
+}
+
+
+img {
+    width: 550px;
+
+
+    float: left;
+}
